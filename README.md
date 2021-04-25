@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 ## Hi there 👋
 ### Cyber Security Engineer || Flutter Developer
 
+- 💬 Ask me about OSI Model || Flutter
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning many nice things
-- Computer Network || Dart || Flutter Architecture || Mobx
-- 💬 Ask me about OSI Model || Flutter Widgets
+  - Mobx
+  - Dart  
+  - Computer Network 
+  - Flutter Architecture
 - 📫 Where to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/marcelo-c%C3%A9sar-8355161b6/)
   - [Instagram](https://www.instagram.com/d__jordan_/)
