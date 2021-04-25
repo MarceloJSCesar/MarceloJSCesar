@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning many nice things
 - Computer Network || Dart || Flutter Architecture || Mobx
 - 💬 Ask me about OSI Model || Flutter Widgets
-- 📫 How to reach me: 
+- 📫 Where to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/marcelo-c%C3%A9sar-8355161b6/)
   - [Instagram](https://www.instagram.com/d__jordan_/)
   - [Twitter](https://twitter.com/MarceloJpfut3) <br>
