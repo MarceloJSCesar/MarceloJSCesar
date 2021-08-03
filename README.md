@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning many nice things
   - Mobx
   - Dart  
+  - Linux
+  - Cyber Security
   - Computer Network 
   - Flutter Architecture
 - 💬 Ask me about OSI Model || Flutter
