@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning many nice things
+  - CSS
   - Mobx
   - BloC
-  - Dart  
+  - Dart 
+  - HTML
   - Linux
   - Firebase
   - Java Script
