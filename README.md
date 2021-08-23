@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Cyber Security Engineer || Flutter Developer
 
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning many nice things
+- 🌱 I’m currently learning very nice things
   - CSS
   - Mobx
   - BloC
