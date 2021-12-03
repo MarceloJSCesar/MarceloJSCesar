@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning very nice things
+  - C
   - Mobx
   - BloC
   - Dart 
   - Linux
   - Firebase
-  - Cyber Security
-  - Computer Network 
   - Flutter Architecture
 - 💬 Ask me about Computer Network || Flutter
 - 📫 Where to reach me: 
