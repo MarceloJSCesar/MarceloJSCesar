@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 Where to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98-%F0%9D%99%B2%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%8A%F0%9D%9A%9B-8355161b6/)
   - [Instagram](https://www.instagram.com/d__jordan_/)
-  - [Twitter](https://twitter.com/MarceloJpfut3) <br>
+  - [Twitter](https://twitter.com/MarceloCesarSE) <br>
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelojscesar&show_icons=true&theme=dracula&hide=prs,contribs) <br> <br>
