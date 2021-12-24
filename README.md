@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-### Cyber Security Engineer || Flutter Developer
+### Self-Taught Computer Science Student
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning very nice things
