@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - Flutter Architecture
 - 💬 Ask me about Computer Network || Flutter
 - 📫 Where to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98-%F0%9D%99%B2%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%8A%F0%9D%9A%9B-8355161b6/)
+  - [LinkedIn](www.linkedin.com/in/marcelo-cesar-se)
   - [Instagram](https://www.instagram.com/d__jordan_/)
   - [Twitter](https://twitter.com/MarceloCesarSE) <br>
   
