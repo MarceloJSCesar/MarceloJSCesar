@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning very nice things
   - C/C++
-  - Mobx
   - BloC
   - Dart 
   - Linux
