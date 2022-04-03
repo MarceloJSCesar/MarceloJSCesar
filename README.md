@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning very nice things
-  - C/C++
-  - BloC
-  - Dart 
+  - IA
+  - Math
+  - Brain
+  - C/C++ 
   - Linux
-  - Firebase
-  - Flutter Architecture
+  - Dart/Flutter
 - 💬 Ask me about Computer Network || Flutter
 - 📫 Where to reach me: 
   - [LinkedIn](www.linkedin.com/in/marcelo-cesar-se)
