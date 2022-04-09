@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## Hi There 👋
 ### Self-Taught Computer Science Student
 
 - 🔭 I’m currently working on Flutter Projects
