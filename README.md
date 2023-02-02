@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 ## Hi There 👋
 ### Self-Taught Computer Science Student
 
-- 🔭 I’m currently working on Flutter Projects
+### I educate, teach and train myself with books
+
+- 🔭 I’m currently working with Dart and Flutter with over 2 years of experience
 - 🌱 I’m currently learning very nice things
-  - IA
-  - Math
-  - Brain
-  - C/C++ 
-  - Linux
+  - PHP
   - Dart/Flutter
-- 💬 Ask me about Computer Network || Flutter
+  - Brain Hacking
+- 💬 Let's connect and share our knowledge
 - 📫 Where to reach me: 
   - [LinkedIn](www.linkedin.com/in/marcelo-cesar-se)
   - [Instagram](https://www.instagram.com/d__jordan_/)
