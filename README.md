@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with Dart and Flutter with over 2 years of experience
 - 🌱 I’m currently learning very nice things
   - PHP
+  - Algorithms
   - Dart/Flutter
   - Brain Hacking
 - 💬 Let's connect and share our knowledge
