@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi There 👋
 ### Self-Taught Computer Science Student
 
-### I educate, teach and train myself with books
+### I descipline, teach and train myself with books
 
 - 🔭 I’m currently working with Dart and Flutter with over 2 years of experience
 - 🌱 I’m currently learning very nice things
