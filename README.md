@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Dart and Flutter with over 2 years of experience
 - 🌱 I’m currently learning very nice things
-  - PHP
-  - Algorithms
-  - Dart/Flutter
+  - Math
   - Brain Hacking
+  - Entrepeneurship
+  - Computer Science
 - 💬 Let's connect and share our knowledge
 - 📫 Where to reach me: 
   - [LinkedIn](www.linkedin.com/in/marcelo-cesar-se)
