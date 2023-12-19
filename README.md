@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### I descipline, teach and train myself with books
 
-- 🔭 I’m currently working with Dart and Flutter with over 2 years of experience
+- 🔭 I’m currently working with Dart and Flutter with over 3 years of experience
 - 🌱 I’m currently learning very nice things
   - Math
   - Brain Hacking
