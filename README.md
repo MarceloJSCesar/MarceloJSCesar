@@ -19,17 +19,18 @@ Here are some ideas to get you started:
 
 ### I descipline, teach and train myself with books
 
-- 🔭 I’m currently working with Dart and Flutter with over 3 years of experience
-- 🌱 I’m currently learning very nice things
+- 🔭 Professional in Dart and Flutter with over 3 years of experience
+- 🌱 I’m currently learning very interesting subjects like
   - Math
   - Brain Hacking
   - Entrepeneurship
   - Computer Science
-- 💬 Let's connect and share our knowledge
+  - AI
+  - Software Engineering
+- 💬 Let's connect 
 - 📫 Where to reach me: 
   - [LinkedIn](www.linkedin.com/in/marcelo-cesar-se)
-  - [Instagram](https://www.instagram.com/d__jordan_/)
-  - [Twitter](https://twitter.com/MarceloCesarSE) <br>
+  - [Instagram](https://www.instagram.com/d__jordan_/) <br>
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelojscesar&show_icons=true&theme=dracula&hide=prs,contribs) <br> <br>
