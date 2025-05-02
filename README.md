@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### I descipline, teach and train myself with books
 
-- 🔭 Professional in Dart and Flutter with over 3 years of experience
+- 🔭 Professional in Dart and Flutter with over 4 years of experience
+- Building [Prendi](https://prendi.cv)
 - 🌱 I’m currently learning very interesting subjects like
   - Math
   - Brain Hacking
