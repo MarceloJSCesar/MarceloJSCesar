@@ -32,7 +32,3 @@ Here are some ideas to get you started:
 - 📫 Where to reach me: 
   - [LinkedIn](www.linkedin.com/in/marcelo-cesar-se)
   - [Instagram](https://www.instagram.com/d__jordan_/) <br>
-  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelojscesar&show_icons=true&theme=dracula&hide=prs,contribs) <br> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojscesar&&layout=compact&hide=tex) <br> <br>
