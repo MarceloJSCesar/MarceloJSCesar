@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I descipline, teach and train myself with books
 
 - 🔭 Professional in Dart and Flutter with over 4 years of experience
-- Building [Prendi](https://prendi.cv)
+- Working on my project [Prendi](https://prendi.cv) - help as much professionals learn English and more languages. 
 - 🌱 I’m currently learning very interesting subjects like
   - Math
   - Brain Hacking
